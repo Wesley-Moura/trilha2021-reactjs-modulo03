@@ -1,0 +1,17 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "across"
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Id reprehenderit amet tempor cillum sit. Consectetur sunt anim adipisicing officia commodo Lorem eu consectetur nisi et laborum irure. Nisi et dolore dolore sunt aute eiusmod ea dolore amet consequat."
+        }
+      }
+    ]
+  }
+}
